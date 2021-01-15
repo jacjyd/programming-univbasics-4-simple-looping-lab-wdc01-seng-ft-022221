@@ -28,7 +28,8 @@ end
 
 def return_string_array(array)
 counter=0 
+newarray =[]
 while array[counter] do
-  
+  newarray.[counter].to_s
 end 
 
